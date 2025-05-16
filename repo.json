@@ -1,0 +1,8 @@
+{
+    "name": "ZeroNos[nsfw] Ext",
+    "description": "Cloudstream extension Repository",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://github.com/hung319/cses-nsfw/raw/refs/heads/builds/plugins.json"
+    ]
+}
